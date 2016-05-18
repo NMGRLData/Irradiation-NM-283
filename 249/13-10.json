@@ -1,0 +1,66 @@
+{
+    "aliquot": 10, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "K:13 Felix", 
+    "commit": "95fe245ee92329576931049626d9fc1d5dfab3d0", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_co2.py", 
+    "identifier": "24913", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-283", 
+    "irradiation_level": "K", 
+    "irradiation_position": 13, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "Sanidine", 
+    "measurement": "felix_analysis120_60.py", 
+    "project": "Irradiation-NM-283", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Irradiation-NM-283", 
+    "sample": "FC-2", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-05-18T15:39:26.901470", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "93dc3684-365a-4867-ab10-edeffda8f064"
+}
